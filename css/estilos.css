@@ -36,14 +36,11 @@ h1 {
 /*   Banner y carrusel  */
 
 .banner{
-    background-color: wheat;   
-margin-top: 100px;
-}
-
-.carousel-inner{
+    width: 100%;
     display: flex;
     justify-content: center;
 }
+
 
 /*  Propiedades menu sidebar  */
 
