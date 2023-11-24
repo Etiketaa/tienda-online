@@ -12,7 +12,7 @@ body {
     width: 100%;
     height: 200vh;
     background-color: white;
-    font-family: 'Josefin Sans', sans-serif; 
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 /*  Propiedades header y logo   */
@@ -33,12 +33,16 @@ h1 {
     align-items: center;
 }
 
-/*   Banner   */
+/*   Banner y carrusel  */
 
 .banner{
-    background-color: green;   
-    height: 30vh;
-    width: 90%;
+    background-color: wheat;   
+margin-top: 100px;
+}
+
+.carousel-inner{
+    display: flex;
+    justify-content: center;
 }
 
 /*  Propiedades menu sidebar  */
